@@ -9,4 +9,4 @@ The main goal is to develop the intuition to solve real-life problems algorithmi
 
 ## Steps and Algorithms
 
-I will start with basic sorting algorithms, then move to Data Structures, and later explore some ML algorithms. I will also try to analyze them using our analysis tool called `analyser.py`
+I will start with basic sorting algorithms, then move to Data Structures, and later explore some ML algorithms.
